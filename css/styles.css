@@ -1,11 +1,9 @@
-.container{
-  font-size: 60px;
-  font-style: italic;
+h1 {
+  text-align: center;
   color: yellow;
-  padding: 100px;
 }
 
-h1 {
+h2 {
   text-align: center;
   color: aqua;
 }
